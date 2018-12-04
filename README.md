@@ -6,3 +6,7 @@
 ## 2.cs344
 - [cs344 assignment & lectures](https://github.com/AssignmentsCamp/cs344)<br>
 - [cs344 online chinese video](https://classroom.udacity.com/courses/cs344)<br>
+## 3.cs229
+- [CS229 lectures & assignments](https://github.com/AssignmentsCamp/cs229-learning-camp)<br>
+## 4.fudan-nndl
+- [nndl exerse](https://github.com/AssignmentsCamp/nndl-exercise)<br>
